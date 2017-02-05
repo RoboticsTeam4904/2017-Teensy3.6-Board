@@ -2,11 +2,11 @@
 
   (general
     (links 62)
-    (no_connects 11)
+    (no_connects 3)
     (area 148.924999 75.146999 216.075001 143.385)
     (thickness 1.6)
     (drawings 11)
-    (tracks 250)
+    (tracks 258)
     (zones 0)
     (modules 15)
     (nets 64)
@@ -947,6 +947,14 @@
   (gr_line (start 216 81.5) (end 216 140.5) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 215 81.5) (end 216 81.5) (angle 90) (layer Edge.Cuts) (width 0.15))
 
+  (segment (start 191.525 93) (end 193.815 93) (width 1) (layer B.Cu) (net 1) (status C00000))
+  (segment (start 193.815 93) (end 196.105 93) (width 1) (layer B.Cu) (net 1) (tstamp 588FD21C) (status C00000))
+  (segment (start 196.105 93) (end 198.395 93) (width 1) (layer B.Cu) (net 1) (tstamp 588FD21D) (status C00000))
+  (segment (start 198.395 93) (end 200.685 93) (width 1) (layer B.Cu) (net 1) (tstamp 588FD21E) (status C00000))
+  (segment (start 160.525 93) (end 162.815 93) (width 1) (layer B.Cu) (net 1) (status C00000))
+  (segment (start 162.815 93) (end 165.105 93) (width 1) (layer B.Cu) (net 1) (tstamp 588FD214) (status C00000))
+  (segment (start 165.105 93) (end 167.395 93) (width 1) (layer B.Cu) (net 1) (tstamp 588FD215) (status C00000))
+  (segment (start 167.395 93) (end 169.685 93) (width 1) (layer B.Cu) (net 1) (tstamp 588FD216) (status C00000))
   (segment (start 192 135) (end 192 136.5) (width 0.65) (layer B.Cu) (net 2) (status 10))
   (segment (start 199.54 136.46) (end 199.54 135) (width 0.65) (layer B.Cu) (net 2) (tstamp 587AA87B) (status 20))
   (segment (start 199 137) (end 199.54 136.46) (width 0.65) (layer B.Cu) (net 2) (tstamp 587AA87A))
